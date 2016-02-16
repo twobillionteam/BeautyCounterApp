@@ -1,0 +1,2 @@
+# BeautyCounterApp
+BeautyCounter Application Version
